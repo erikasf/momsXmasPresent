@@ -1,0 +1,13 @@
+.uploadIcon{
+  height: 90px;
+  width: 90px;
+}
+h2{
+  color: #191919;
+}
+.col-md-12{
+  border: 4px inset whitesmoke;
+  margin-bottom: 5%;
+  text-align: center;
+  padding-top: 2%;
+}
